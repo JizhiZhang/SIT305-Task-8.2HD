@@ -1,11 +1,17 @@
 # SIT305-Task-8.2HD
 
 SIT305 Task 8.2 HD
+
 **Project name**: Food Rescue
+
 **Student name**: Jizhi Zhang
+
 **Student ID**: 219083324
+
 **Project link**: https://github.com/JizhiZhang/SIT305-Task-8.2HD
+
 **Demo video link:** https://www.youtube.com/watch?v=TVFeaqvK_lw
+
 
 
 **Overview:**
