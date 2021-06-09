@@ -36,14 +36,13 @@ The purpose of Food Rescue is to reduce food waste. Food Rescue allows users to 
 
 
 **Design:**
-
-（This design image is also uploaded with project file in GitHub）
  ![SIT305 Task 8 2HD Design Image](https://user-images.githubusercontent.com/69889275/121335597-51626600-c94d-11eb-8415-de309f13f65a.png)
 
 
 
 
 **Advanced Concepts/Features:**
+
 **1. Image classification.** 
 Image classification function belongs to Android Machine Learning. An image classification model is trained to recognize various classes of images. TensorFlow Lite provides optimized pre-trained models that I deployed in the mobile application. In this app, when users add food items, they are asked to add food pictures. After adding a picture, the picture will be displayed in the picture box. By clicking the picture box, the app will perform image recognition and automatically fill the title of the food with the recognition result, which provides users with a more intelligent and humanized service.
 
