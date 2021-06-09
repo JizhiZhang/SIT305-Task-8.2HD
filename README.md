@@ -15,10 +15,12 @@ SIT305 Task 8.2 HD
 
 
 **Overview:**
+
 Food Rescue is fighting one of the world's largest environmental issues - food waste. My mission is to cut food waste by making food more accessible and affordable. With the Food Rescue app, user can now rescue delicious food from restaurants, cafes and grocers at a reasonable price. Besides, Food Rescue allows users to detect food and get related information by their own mobile phone camera. It is also equipped with a chatbot to help users become familiar with and use Food Rescue faster.
 
 
 **Product Purpose:**
+
 The purpose of Food Rescue is to reduce food waste. Food Rescue allows users to add food items, including food pictures, name, description, price, quantity, and pick up time and location. Users can add several food items into cart and use PayPal to pay for them. In addition, Food Rescue can use TensorFlow Lite and OpenCV to perform object and food detection by applying for permission of use the user's mobile phone camera. At last, Food Rescue has a voice-enabled chatbot that can introduce the information and functions of this app through text and voice communication with users, which can help users become familiar with and use Food Rescue faster. These new features make the app more intelligent and user-friendly, which makes my project creative.
 
 
