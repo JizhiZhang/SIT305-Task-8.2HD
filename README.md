@@ -1,11 +1,16 @@
 # SIT305-Task-8.2HD
 
 SIT305 Task 8.2 HD
-Project name: Food Rescue
-Student name: Jizhi Zhang
-Student ID: 219083324
-Project link: https://github.com/JizhiZhang/SIT305-Task-8.2HD
-Demo video link: https://www.youtube.com/watch?v=TVFeaqvK_lw
+**Project name**: Food Rescue
+
+**Student name**: Jizhi Zhang
+
+**Student ID**: 219083324
+
+**Project link**: https://github.com/JizhiZhang/SIT305-Task-8.2HD
+
+**Demo video link:** https://www.youtube.com/watch?v=TVFeaqvK_lw
+
 
 Overview:
 Food Rescue is fighting one of the world's largest environmental issues - food waste. My mission is to cut food waste by making food more accessible and affordable. With the Food Rescue app, user can now rescue delicious food from restaurants, cafes and grocers at a reasonable price. Besides, Food Rescue allows users to detect food and get related information by their own mobile phone camera. It is also equipped with a chatbot to help users become familiar with and use Food Rescue faster.
