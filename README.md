@@ -24,7 +24,7 @@
 
 #### **设计流程图：**
 
-![121335597-51626600-c94d-11eb-8415-de309f13f65a](C:\Users\zhang\Desktop\121335597-51626600-c94d-11eb-8415-de309f13f65a.png)
+![image](https://github.com/JizhiZhang/SIT305-Task-8.2HD/assets/69889275/5195efbd-9229-451c-b445-2347100ad5d1)
 
 #### **高级功能：**
 
